@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>http://www.fxtech.info/</loc>
+  <priority>1.00</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/index.php</loc>
+ <priority>1.0</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/site_map.php</loc>
+  <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_resources.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_books.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_tools/forex_tools.php</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/risk_warning.php</loc>
+ 
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/contact.php</loc>
+
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_articles/positive_mathematical_expectation.php</loc>
+ <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_articles/positive_mathematical_expectation_in_trading.php</loc>
+ <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_education/what_is_forex.php</loc>
+ <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_education/reversal_patterns.php</loc>
+  <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_education/support_resistance.php</loc>
+ <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+
+<url>
+  <loc>http://www.fxtech.info/forex_education/market_participants.php</loc>
+ <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_education/currency_transactions.php</loc>
+ <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_education/economic_indicators.php</loc>
+  <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_education/margin_spread_pip.php</loc>
+  <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_education/trend_range.php</loc>
+ <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_education/trendline.php</loc>
+ <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_education/triangles.php</loc>
+ <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_education/flag_pennant_rectangle.php</loc>
+  <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_education/moving-average.php</loc>
+  <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_strategies/forex_strategies.php</loc>
+  <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_strategies/ma/basic-ma-cross.php</loc>
+  <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.fxtech.info/forex_strategies/ma/testing-ma.php</loc>
+  <priority>0.60</priority>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
+
+
